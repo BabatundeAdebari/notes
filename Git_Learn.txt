@@ -1,0 +1,49 @@
+https://github.com/BabatundeAdebari/notes.git
+
+https://git-scm/downloads
+
+git - version control software
+
+repo
+
+work local	
+	git init
+
+	git status
+	git add     -  git add <filename>
+	git add . for multiple files
+	git commit - git commit -m "<git message>"
+
+	git config --global user.name "<username>"
+	git config --global user.email "<email>"
+
+
+get online record
+	git clone  -  git clone <repo-url>
+	git pull
+	git pull origin analysis
+
+push info online
+
+
+	origin http://google.com
+	scout http://scout.com
+	
+	git push
+	git push <ur
+git push
+	git push <url> <branch> =  git push scout analysis
+	git push --set-upstream  origin main
+	git push -u origin main
+	
+
+branch
+
+
+stage1		stage2      stage 3
+========     =======    ========
+working tree      stage area     commit region
+========     =======   ========
+
+			intro.py     f5884 - commit hash(sha1)
+			intro.py    8he44
